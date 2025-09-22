@@ -55,9 +55,9 @@ curl "http://127.0.0.1:8000/analytics/top-flight"
 | **👨‍💻 Developer**  | Sachin Arora                      |
 | **📧 Email**      | [sachnaror@gmail.com](mailto:sacinaror@gmail.com) |
 | **📍 Location**   | Noida, India                       |
-| **📂 GitHub**     | [github.com/sachnaror](https://github.com/sachnaror) |
-| **🌐 Youtube**    | [about.me/sachin-arora](https://www.youtube.com/@sachnaror4841/videos) |
-| **🌐 Blog**       | [about.me/sachin-arora](https://medium.com/@schnaror) |
-| **🌐 Website**    | [about.me/sachin-arora](https://about.me/sachin-arora) |
-| **🌐 Twitter**    | [about.me/sachin-arora](https://twitter.com/sachinhep) |
+| **📂 GitHub**     | [Github.com/sachnaror](https://github.com/sachnaror) |
+| **🌐 Youtube**    | [My_Youtube](https://www.youtube.com/@sachnaror4841/videos) |
+| **🌐 Blog**       | [My_Blog](https://medium.com/@schnaror) |
+| **🌐 Website**    | [About_Me](https://about.me/sachin-arora) |
+| **🌐 Twitter**    | [Twitter](https://twitter.com/sachinhep) |
 | **📱 Phone**      | [+91 9560330483](tel:+919560330483) |
